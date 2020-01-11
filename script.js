@@ -1,6 +1,6 @@
 var listElement = document.querySelector('#app ul');
-var inputElement = document.querySelector('#container input');
-var btnElement = document.querySelector('#container button');
+var inputElement = document.querySelector('#app input');
+var btnElement = document.querySelector('#app button');
 
 var tarefas = ['Acordar', 'Escovar os dentes', 'Caminhar'];
 
